@@ -6,9 +6,9 @@ A Concatenated model for the prediction of Air Quality Index of Delhi.
 * Seaborn
 * Matplotlib
 * Sklearn
-** LinearRegression
-  RandomForestRegressor
-  DecisionTreeRegressor
+ * LinearRegression
+ * RandomForestRegressor
+ * DecisionTreeRegressor
   GridSearchCV
   SVR
   StackingRegressor
